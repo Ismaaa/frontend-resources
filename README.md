@@ -42,6 +42,7 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * CSS Grid
     * [The joy of CSS Grid](https://www.youtube.com/watch?v=705XCEruZFs)
     * [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+    * [CSS Grid Tutorial | CSS Grid Crash Course](https://www.youtube.com/watch?v=EFafSYg-PkI)
     * [Learn CSS Grid in 20 minutes](https://www.youtube.com/watch?v=9zBsdzdE4sM)
     * [Responsive Masonry layouts Using CSS Grid | CSS3 Grid](https://www.youtube.com/watch?v=icnZSJbNsEM) :top:
     * [CSS Grid vs Flexbox](https://www.youtube.com/watch?v=RSIclWvNTdQ)
