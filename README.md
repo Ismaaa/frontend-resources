@@ -87,11 +87,14 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
   * [JavaScript Async Await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 
-
 ## :package: Redux
+* [Getting started with Redux](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
 
 ## :crown: React
 
+
 ## :iphone: React Native
 
+
 ## :file_folder: Other fonts
+
