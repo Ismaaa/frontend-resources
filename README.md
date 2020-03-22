@@ -20,7 +20,7 @@
 
 ## :construction: JSON
 
-## :squirrel: JavaScript
+## :hammer_and_wrench: JavaScript
 
 ## :package: Redux
 
