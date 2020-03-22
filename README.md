@@ -42,10 +42,10 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * CSS Grid
     * [The joy of CSS Grid](https://www.youtube.com/watch?v=705XCEruZFs)
     * [Learn CSS Grid in 20 minutes](https://www.youtube.com/watch?v=9zBsdzdE4sM)
-    * [Responsive Masonry layouts Using CSS Grid | CSS3 Grid](https://www.youtube.com/watch?v=icnZSJbNsEM)
+    * [Responsive Masonry layouts Using CSS Grid | CSS3 Grid](https://www.youtube.com/watch?v=icnZSJbNsEM) :top:
     * [CSS Grid vs Flexbox](https://www.youtube.com/watch?v=RSIclWvNTdQ)
   * Flexbox
-    * [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) :top:
     * [Flexbox in 100 seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
     * [Learn flexbox in 15 minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
     * [Learn Flex-box layout in 15 minutes](https://www.youtube.com/watch?v=fqNPSSoMO9Y)
@@ -61,7 +61,7 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * [SASS Basics](https://sass-lang.com/guide)
   * [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 * Practical exercices
-  * Sticky Navigation Menu With Smooth Scrolling
+  * Sticky Navigation Menu With Smooth Scrolling :top:
     * [Video](https://www.youtube.com/watch?v=m1IU7zjl1k4)
     * [Demo](https://codepen.io/prvnbist/full/GQMPZq)
   * [Making a calculator](https://www.youtube.com/watch?v=BuZtAqk5LIY)
