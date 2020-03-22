@@ -74,7 +74,7 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 
 ## :art: Mockups
 * [Figma](https://www.figma.com/)
-  * [The no BS 2 Hour UI Design Course](https://www.udemy.com/course/learn-ui-design-all-you-need-to-start-a-6-figure-career/) :free:
+  * [The no BS 2 Hour UI Design Course](https://www.udemy.com/course/learn-ui-design-all-you-need-to-start-a-6-figure-career/)
 
 ## :book: JSON
 * [Learn JSON in 10 minutes](https://www.youtube.com/watch?v=iiADhChRriM)
