@@ -54,12 +54,21 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
     * [CSS Flexbox course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
     * [Flexy Box](https://the-echoplex.net/flexyboxes/)
     * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
-  * Shadows
-  * Styling radio buttons
+  * [Shadows](https://www.youtube.com/watch?v=zuQUlAv45EE)
+  * [Styling radio buttons](https://www.youtube.com/watch?v=KIq6VyKlKzE)
   * Responsive and media queries
+    * [Using CSS media queries](https://www.youtube.com/watch?v=4Av7ma4v46Y)
 * SASS / SCSS
+  * [SASS Basics](https://sass-lang.com/guide)
+  * [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 * Practical exercices
-* YouTube channels
+  * Sticky Navigation Menu With Smooth Scrolling
+    * [Video](https://www.youtube.com/watch?v=m1IU7zjl1k4)
+    * [Demo](https://codepen.io/prvnbist/full/GQMPZq)
+  * [Making a calculator](https://www.youtube.com/watch?v=BuZtAqk5LIY)
+* Interesting YouTube channels
+  * [Praveen Bisht](https://www.youtube.com/channel/UCv5IgulrVHJqPru4kqQEWrw/videos)
+  * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos)
 
 ## :art: Mockups
 
