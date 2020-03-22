@@ -89,11 +89,25 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 
 ## :package: Redux
 * [Getting started with Redux](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
+* [12 Things NOT To Do When Building React Apps With Redux](https://dev.to/jsmanifest/12-things-not-to-do-when-building-react-apps-with-redux-n5i)
 
 ## :crown: React
-
+* [React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA)
+* React Code Splitting
+  * [Docs](https://create-react-app.dev/docs/code-splitting/)
+  * [Code Splitting with React and React Router v4](https://www.youtube.com/watch?v=bUlkq3PDfRY)
 
 ## :iphone: React Native
+* [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+* Expo
+  * [Expo explained in 2 minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
+* Animations
+  * [React Native Animation Series](https://www.youtube.com/playlist?list=PLy9JCsy2u97k6olfalMTA_XSPz4pNuT46)
+* Interesting YouTube channels
+  * [William Candillon](https://www.youtube.com/user/wcandill/videos)
+  * [React Native UI Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw) :top:
+
+## Testing libraries
 
 
 ## :file_folder: Other fonts
