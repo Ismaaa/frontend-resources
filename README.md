@@ -10,8 +10,8 @@
 > List of tools that you should learn, ordered by most important to least.
 
 ## :full_moon_with_face: Guide to becoming a self-taught software developer
-<a href="https://www.youtube.com/watch?v=J6rVaFzOEP8" target="_blank" >
-  <img src="https://img.youtube.com/vi/J6rVaFzOEP8/0.jpg" alt="Guide to becoming a self-taught software developer" />
+<a href="https://www.youtube.com/watch?v=J6rVaFzOEP8" target="_blank">
+  <img alt="Guide to becoming a self-taught software developer" src="https://img.youtube.com/vi/J6rVaFzOEP8/0.jpg">
 </a>
 
 ## :heavy_exclamation_mark: Doing X in Y 
