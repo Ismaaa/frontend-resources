@@ -66,6 +66,9 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
     * [Video](https://www.youtube.com/watch?v=m1IU7zjl1k4)
     * [Demo](https://codepen.io/prvnbist/full/GQMPZq)
   * [Making a calculator](https://www.youtube.com/watch?v=BuZtAqk5LIY)
+* Frameworks
+  * [Bootstrap](https://getbootstrap.com/) | CSS + JS (JQuery)
+  * [Bulma](https://bulma.io/) | CSS framework only
 * Interesting YouTube channels
   * [Praveen Bisht](https://www.youtube.com/channel/UCv5IgulrVHJqPru4kqQEWrw/videos)
   * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos)
