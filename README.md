@@ -18,7 +18,7 @@
 
 ## :art: Mockups
 
-## :construction: JSON
+## :book: JSON
 
 ## :hammer_and_wrench: JavaScript
 
