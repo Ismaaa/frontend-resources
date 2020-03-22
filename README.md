@@ -96,6 +96,8 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 * React Code Splitting
   * [Docs](https://create-react-app.dev/docs/code-splitting/)
   * [Code Splitting with React and React Router v4](https://www.youtube.com/watch?v=bUlkq3PDfRY)
+* [9 Tips for Building Awesome Reusable React Components](https://blog.bitsrc.io/9-tips-for-building-awesome-reusable-react-components-b91f4846a30a)
+* [5 Recommended Tools for Optimizing Performance in ReactJS](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)
 
 ## :iphone: React Native
 * [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
@@ -108,6 +110,10 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * [React Native UI Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw) :top:
 * Fun
   * [Creating games with React Native](https://www.youtube.com/playlist?list=PLnGUkDX-ak1kdA8R8dUrkrqOG33fIrlWb)
+
+## TypeScript
+* [React Typescript Tutorial - Why and How (get started now!)](https://www.youtube.com/watch?v=0_C2X1yRRac)
+* [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
 ## Testing libraries
 * e2e
