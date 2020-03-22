@@ -26,7 +26,6 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 * [You Probably Need BEM CSS in Your Life ](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 * [Naming Conventions From Uncle Bob's Clean Code Philosophy](https://dzone.com/articles/naming-conventions-from-uncle-bobs-clean-code-phil)
 
-
 ## :nail_care: CSS
 * [CSS properties](http://jkorpela.fi/css/keywords.html)
 * [CSS Full Course - Includes Flexbox and CSS Grid Tutorials **[1h 30m]**](https://www.youtube.com/watch?v=ieTHC78giGQ)
@@ -76,9 +75,18 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 ## :art: Mockups
 * [Figma](https://www.figma.com/)
   * [The no BS 2 Hour UI Design Course](https://www.udemy.com/course/learn-ui-design-all-you-need-to-start-a-6-figure-career/) :free:
+
 ## :book: JSON
+* [Learn JSON in 10 minutes](https://www.youtube.com/watch?v=iiADhChRriM)
 
 ## :hammer_and_wrench: JavaScript
+* [Learn Javascript - Full Course for Beginners [3h]](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+* Async
+  * [JavaScript Promise in 100 seconds](https://www.youtube.com/watch?v=RvYYCGs45L4)
+  * [Promises in 10 minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+  * [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
+  * [JavaScript Async Await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
+
 
 ## :package: Redux
 
