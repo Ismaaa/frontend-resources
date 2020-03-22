@@ -106,6 +106,8 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 * Interesting YouTube channels
   * [William Candillon](https://www.youtube.com/user/wcandill/videos)
   * [React Native UI Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw) :top:
+* Fun
+  * [Creating games with React Native](https://www.youtube.com/playlist?list=PLnGUkDX-ak1kdA8R8dUrkrqOG33fIrlWb)
 
 ## Testing libraries
 * e2e
