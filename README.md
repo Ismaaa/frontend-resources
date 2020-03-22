@@ -12,6 +12,9 @@
 ## :full_moon_with_face: Guide to becoming a self-taught software developer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J6rVaFzOEP8/0.jpg)](https://www.youtube.com/watch?v=J6rVaFzOEP8)
 
+## :heavy_exclamation_mark: The videos of “Doing X in Y seconds / minutes” are just to have a quick basic knowledge about what that technology is about
+
+
 ## :rocket: Basic
 
 ## :nail_care: CSS
