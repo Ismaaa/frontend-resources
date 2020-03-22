@@ -108,7 +108,10 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * [React Native UI Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw) :top:
 
 ## Testing libraries
-
+* e2e
+  * [cypress](https://www.cypress.io/) :top:
+* unit
+  * [Jest](https://jestjs.io/)
 
 ## :file_folder: Other fonts
-
+* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos) :top:
