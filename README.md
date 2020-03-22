@@ -1,4 +1,4 @@
-# <center>Frontend Bootcamp [FREE RESOURCES]</center>
+# <center>Frontend Resources [ALL OF THEM FREE]</center>
 
  
 ## :books: Other roadmaps or fonts of inspiration
