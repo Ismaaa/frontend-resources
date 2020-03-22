@@ -41,7 +41,19 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * Box Model
     * [Learn box model in 8 minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
   * CSS Grid
+    * [The joy of CSS Grid](https://www.youtube.com/watch?v=705XCEruZFs)
+    * [Learn CSS Grid in 20 minutes](https://www.youtube.com/watch?v=9zBsdzdE4sM)
+    * [Responsive Masonry layouts Using CSS Grid | CSS3 Grid](https://www.youtube.com/watch?v=icnZSJbNsEM)
+    * [CSS Grid vs Flexbox](https://www.youtube.com/watch?v=RSIclWvNTdQ)
   * Flexbox
+    * [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [Flexbox in 100 seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+    * [Learn flexbox in 15 minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+    * [Learn Flex-box layout in 15 minutes](https://www.youtube.com/watch?v=fqNPSSoMO9Y)
+    * [Flexboxfroggy **(game)** :top:](https://flexboxfroggy.com/)
+    * [CSS Flexbox course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+    * [Flexy Box](https://the-echoplex.net/flexyboxes/)
+    * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
   * Shadows
   * Styling radio buttons
   * Responsive and media queries
