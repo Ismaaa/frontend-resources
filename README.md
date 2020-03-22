@@ -28,6 +28,26 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 
 
 ## :nail_care: CSS
+* [CSS properties](http://jkorpela.fi/css/keywords.html)
+* [CSS Full Course - Includes Flexbox and CSS Grid Tutorials **[1h 30m]**](https://www.youtube.com/watch?v=ieTHC78giGQ)
+* Layout
+  * Floats
+  * Positioning
+    * [Learn CSS position in 9 minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+  * Display
+    * [Understanding the CSS Display property](https://www.youtube.com/watch?v=dL-_uVvbMU8)
+    * [Usage of display property](https://www.youtube.com/watch?v=5BfFMaawz48)
+    * [Learn CSS Display Property in 4 minutes](https://www.youtube.com/watch?v=Qf-wVa9y9V4)
+  * Box Model
+    * [Learn box model in 8 minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
+  * CSS Grid
+  * Flexbox
+  * Shadows
+  * Styling radio buttons
+  * Responsive and media queries
+* SASS / SCSS
+* Practical exercices
+* YouTube channels
 
 ## :art: Mockups
 
