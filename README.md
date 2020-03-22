@@ -62,6 +62,7 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
 * SASS / SCSS
   * [SASS Basics](https://sass-lang.com/guide)
   * [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI)
+  * [Advanced SCSS](https://gist.github.com/Ismaaa/a8f365cd9fd23548d624267ee7995cb5)
 * Practical exercices
   * Sticky Navigation Menu With Smooth Scrolling :top:
     * [Video](https://www.youtube.com/watch?v=m1IU7zjl1k4)
