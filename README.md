@@ -71,7 +71,9 @@ The videos of “Doing X in Y seconds / minutes” are just to have a quick basi
   * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/videos)
 
 ## :art: Mockups
-
+* Figma
+  * [The no BS 2 Hour UI Design Course :free:
+](https://www.udemy.com/course/learn-ui-design-all-you-need-to-start-a-6-figure-career/)
 ## :book: JSON
 
 ## :hammer_and_wrench: JavaScript
