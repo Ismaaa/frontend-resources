@@ -7,5 +7,5 @@ module.exports = {
     content = content.replace(/(:.*:)/g, replacer);
 
     return content;
-  }
+  },
 };
