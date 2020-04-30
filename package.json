@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "node-emoji": "^1.10.0"
+  }
+}
